@@ -29,9 +29,60 @@ Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-Reploi
 Loading C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\RakNetSwig.dll into Unity Child Domain
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.Threading.dll (this message is harmless)
 Loading C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.Threading.dll into Unity Child Domain
-- Completed reload, in  0.533 seconds
+- Completed reload, in  0.372 seconds
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1080 60Hz; virtual: 4480x1090 at -2560,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.473576 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 439c -> priority: 1 
+  Thread -> id: 9d8 -> priority: 1 
+  Thread -> id: 1e30 -> priority: 1 
+  Thread -> id: eb8 -> priority: 1 
+Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.Xml.dll (this message is harmless)
+hit rdy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.867746 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2193.
+Total: 2.918314 ms (FindLiveObjects: 0.132740 ms CreateObjectMapping: 0.070320 ms MarkObjects: 2.477031 ms  DeleteObjects: 0.237431 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+

@@ -29,7 +29,7 @@ Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-Reploi
 Loading C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\RakNetSwig.dll into Unity Child Domain
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.Threading.dll (this message is harmless)
 Loading C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.Threading.dll into Unity Child Domain
-- Completed reload, in  0.233 seconds
+- Completed reload, in  0.337 seconds
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\MMXRA_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1080 60Hz; virtual: 4480x1090 at -2560,0

@@ -29,18 +29,9 @@ Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-Reploi
 Loading C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\RakNetSwig.dll into Unity Child Domain
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Threading.dll (this message is harmless)
 Loading C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Threading.dll into Unity Child Domain
-- Completed reload, in  0.330 seconds
+- Completed reload, in  0.341 seconds
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1080 60Hz; virtual: 4480x1090 at -1920,-10
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 1.022814 ms
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 1b68 -> priority: 1 
-  Thread -> id: 3544 -> priority: 1 
-  Thread -> id: 3b74 -> priority: 1 
-  Thread -> id: 1c8 -> priority: 1 
-Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Configuration.dll (this message is harmless)
-Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Xml.dll (this message is harmless)

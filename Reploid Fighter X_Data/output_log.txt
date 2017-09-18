@@ -29,16 +29,60 @@ Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-Reploi
 Loading C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\RakNetSwig.dll into Unity Child Domain
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Threading.dll (this message is harmless)
 Loading C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Threading.dll into Unity Child Domain
-- Completed reload, in  0.359 seconds
+- Completed reload, in  0.315 seconds
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1080 60Hz; virtual: 4480x1090 at -1920,-10
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 6.564348 ms
+UnloadTime: 4.851359 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 327c -> priority: 1 
-  Thread -> id: 30d0 -> priority: 1 
-  Thread -> id: 43d0 -> priority: 1 
-  Thread -> id: 3848 -> priority: 1 
+  Thread -> id: 8a0 -> priority: 1 
+  Thread -> id: 19a0 -> priority: 1 
+  Thread -> id: 4178 -> priority: 1 
+  Thread -> id: 1c6c -> priority: 1 
+Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\Bryce\Desktop\Unity Projects\ReploidArena\MMX-ReploidArena\Reploid Fighter X_Data\Managed\System.Xml.dll (this message is harmless)
+hit rdy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.584396 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2498.
+Total: 16.046228 ms (FindLiveObjects: 0.288395 ms CreateObjectMapping: 0.231111 ms MarkObjects: 1.988741 ms  DeleteObjects: 13.537189 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'TornadoDetect') is missing!
+ 
+(Filename:  Line: 1743)
+
